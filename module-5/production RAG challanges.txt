@@ -1,0 +1,7 @@
+production RAG challanges:
+- security - how to deal if user ask millious prompt for asking confidential information etc
+- accuracy
+- cost
+- efficiecy (scalability, latency, throughput)
+
+
