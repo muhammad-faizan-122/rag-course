@@ -1,5 +1,5 @@
-# [Retrieval Augmented Generation (RAG) Coursera (By Zain Hassan)](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
-RAG course is paid course available on Coursera taught Zain Hassan. The course is consist of four modules. This repo contains the lecture slides, lecture notes, quizes, assignment, and lab involving in each module.
+# [Retrieval Augmented Generation (RAG) Coursera (By Zain Hasan)](https://www.coursera.org/learn/retrieval-augmented-generation-rag)
+RAG course is paid course available on Coursera taught Zain Hasan. The course is consist of four modules. This repo contains the lecture slides, lecture notes, quizes, assignment, and lab involving in each module.
 
 ## project Structure
 ```
