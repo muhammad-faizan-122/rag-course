@@ -3,6 +3,7 @@ RAG course is paid course available on Coursera taught Zain Hasan. The course is
 
 ## project Structure
 ```
+.
 ├── module-1
 │   ├── notebooks
 │   │   ├── assignment
@@ -13,20 +14,50 @@ RAG course is paid course available on Coursera taught Zain Hasan. The course is
 │   └── slides
 ├── module-2
 │   ├── notebooks
+│   │   ├── assignment
+│   │   │   └── images
+│   │   └── labs
+│   │       ├── 1
+│   │       │   └── images
+│   │       └── 2
+│   │           └── images
 │   ├── notes
+│   ├── quiz
 │   └── slides
 ├── module-3
 │   ├── notebooks
+│   │   ├── assignment
+│   │   │   ├── data
+│   │   │   └── images
+│   │   └── labs
+│   │       ├── 1
+│   │       │   └── images
+│   │       └── 2
+│   │           └── images
 │   ├── notes
+│   ├── quiz
 │   └── slides
 ├── module-4
 │   ├── notebooks
+│   │   ├── assignment
+│   │   │   ├── data
+│   │   │   └── images
+│   │   └── labs
+│   │       ├── 1
+│   │       └── 2
+│   │           └── images
 │   ├── notes
+│   ├── quiz
 │   └── slides
 └── module-5
     ├── notebooks
-    │   ├── dataset
-    │   └── images
+    │   ├── assignment
+    │   │   ├── dataset
+    │   │   └── images
+    │   └── labs
+    │       └── 1
+    │           └── images
     ├── notes
+    ├── quiz
     └── slides
 ```
